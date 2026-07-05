@@ -136,7 +136,7 @@ assets:
     hash: sha256:d6f51c4570ff45dcfe479377bc5915dcd600ead2d6a00967f0b0aff241cd221d
   - seq: 38
     filename: KR2k0052_038.yaml
-    hash: sha256:7f2b8d4196927dff249b9ee044811a96eed8d3fcab8f2c23a5e478c88b74ffbc
+    hash: sha256:b41d6b779a578063f5365e043425f7c4d779be797ca73cf9e8110f27a114b28f
   - seq: 39
     filename: KR2k0052_039.yaml
     hash: sha256:7c3774e3b71a11ad3adbef6de7ca1a5cd0797c61f9b858ae7180550c24d3fe51
@@ -320,7 +320,7 @@ assets:
   - seq: 38
     role: markers
     filename: assets/KR2k0052_038.markers.yaml
-    hash: sha256:7de90b5b5e062dc97ed0b0ab3542d9dd73751c75133aad6d80098cd494fb3293
+    hash: sha256:10f43ddc979b44a3c5696a937fbd073cb97247b4952edbfa668b71871514b3cf
   - seq: 39
     role: markers
     filename: assets/KR2k0052_039.markers.yaml
@@ -1079,16 +1079,6 @@ table_of_contents:
   type: section
   level: 1
 - ref:
-    seq: 38
-    marker_id: KR2k0052_WYG_038-198a
-    span:
-    - body
-    - 72931
-    - 79662
-  label: 卷三十八之六
-  type: section
-  level: 1
-- ref:
     seq: 39
     marker_id: KR2k0052_WYG_039-1a
     span:
@@ -1248,4 +1238,4 @@ table_of_contents:
   label: 卷四十七
   type: section
   level: 1
-hash: sha256:d7ed5af3e97be7fc77fc0344f8a9a16e2f772c87267e21fc08165885b982bb98
+hash: sha256:f475ff27538ef531029f557cb7ddf4230f99a21873e854a937436f6bce2bce07
